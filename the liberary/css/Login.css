@@ -1,0 +1,144 @@
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+scroll-behavior: smooth;
+}
+
+header {
+    background-color: rgb(43, 58, 73);
+width: 100%;
+position: fixed;
+z-index: 999;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 10px 200px;
+}
+
+.logo{
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+}
+
+.navigation a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding-left: 30px;
+}
+
+.navigation a:hover{
+    color: rgb(122, 158, 189);
+
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background-image : url("../images/gr.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.form2 {
+position: absolute;
+top: 57%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 350px;
+height: 420px;
+background: rgba(42, 92, 81, 0.408);
+border-radius: 15px;
+box-sizing: border-box;
+}
+
+img[alt="user"] {
+    position: absolute;
+    top: -110px;
+    left: 89px;
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+    margin: 90px;
+}
+.username,.password {
+    position: absolute;
+    outline: none;
+    border: none;
+    width: 250px;
+    height: 35px;
+    border-bottom: 2px solid  rgb(43, 58, 73);
+    background: none;
+    padding: 5px;
+    color: #ffffff;
+}
+
+.username{
+    top: 140px;
+    left: 50px;
+}
+
+.password{
+    top: 210px;
+    left: 50px;
+}
+
+.main-btn{
+    position: absolute;
+    text-align: center;
+    top: 305px;
+    left: 110px;
+    width: 130px;
+    height: 35px;
+    background:  rgb(43, 58, 73);
+    border: none;
+    outline: none;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 350;
+    display: inline-block;
+    letter-spacing: 1.5px;
+    border-radius: 15px;
+    font-size: 20px;
+    margin-bottom: 40px;
+    transition: 0.7s ease;
+}
+
+.main-btn:hover {
+    background-color:rgba(49, 65, 79, 0.773);
+    transform: scale(1.055);   
+
+}
+
+p {
+    position: absolute;
+    top: 360px;
+    left: 50px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+#reg{
+    position: absolute;
+    top: 387px;
+    left: 50px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+p:hover , #reg:hover{
+    color: #000000;
+}

@@ -1,0 +1,177 @@
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\the liberary.dll.config
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\the liberary.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\the liberary.pdb
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\csc.exe
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\csc.exe.config
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\csc.rsp
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\csi.exe
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\csi.exe.config
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\csi.rsp
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.AppContext.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Console.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Net.Http.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\vbc.exe
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\vbc.exe.config
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\vbc.rsp
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\obj\Debug\the liberary.csproj.AssemblyReference.cache
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\obj\Debug\the liberary.csproj.CoreCompileInputs.cache
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\obj\Debug\the libe.9BBF8760.Up2Date
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\obj\Debug\the liberary.dll
+C:\Users\Mad-Soft\Desktop\Lan\C#\Visual\the liberary\the liberary\obj\Debug\the liberary.pdb
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\the liberary.dll.config
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\the liberary.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\the liberary.pdb
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csc.exe
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csc.exe.config
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csc.rsp
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csi.exe
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csi.exe.config
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csi.rsp
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.AppContext.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Console.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.IO.Compression.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Net.Http.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Net.Sockets.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.ValueTuple.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Xml.XPath.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\vbc.exe
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\vbc.exe.config
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\vbc.rsp
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\VBCSCompiler.exe
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the liberary.csproj.AssemblyReference.cache
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the liberary.csproj.CoreCompileInputs.cache
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the libe.9BBF8760.Up2Date
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the liberary.dll
+C:\Users\G-A Tech\Desktop\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the liberary.pdb
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\the liberary.dll.config
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\the liberary.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\the liberary.pdb
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csc.exe
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csc.exe.config
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csc.rsp
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csi.exe
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csi.exe.config
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\csi.rsp
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.Managed.Core.targets
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.AppContext.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Collections.Immutable.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Console.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Globalization.Calendars.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.IO.Compression.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.IO.FileSystem.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Net.Http.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Net.Sockets.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Reflection.Metadata.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.ValueTuple.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Xml.XmlDocument.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Xml.XPath.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\vbc.exe
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\vbc.exe.config
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\vbc.rsp
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\VBCSCompiler.exe
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\roslyn\VBCSCompiler.exe.config
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the liberary.csproj.AssemblyReference.cache
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the liberary.csproj.CoreCompileInputs.cache
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the libe.9BBF8760.Up2Date
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the liberary.dll
+E:\University\سنه تانيه\Term 2\the liberary\the liberary\obj\Debug\the liberary.pdb
